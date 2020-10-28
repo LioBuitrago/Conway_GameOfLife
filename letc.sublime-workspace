@@ -1,0 +1,673 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"VisualizationQuads",
+				"VisualizationQuads"
+			],
+			[
+				"QCol",
+				"QColor\tQt Classes"
+			],
+			[
+				"ini",
+				"initialize\tQt Functions"
+			],
+			[
+				"slots",
+				"Q_SLOTS\tQt Functions"
+			],
+			[
+				"QSt",
+				"QString\tQt Classes"
+			],
+			[
+				"h",
+				"header\tQt Functions"
+			],
+			[
+				"toStd",
+				"toStdString\tQt Functions"
+			],
+			[
+				"he",
+				"height\tQt Functions"
+			],
+			[
+				"dep",
+				"depth\tQt Functions"
+			],
+			[
+				"wi",
+				"width\tQt Functions"
+			],
+			[
+				"qde",
+				"QDebug\tQt Classes"
+			],
+			[
+				"opengl",
+				"QtOpenGL\tQt Modules"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "game.py",
+			"settings":
+			{
+				"buffer_size": 2414,
+				"encoding": "UTF-8",
+				"line_ending": "Unix",
+				"name": "import pygame"
+			}
+		},
+		{
+			"contents": "[consul@Lio GameOfLife]$ \n\n[consul@Lio ~]$ python game.py \npython: can't open file 'game.py': [​‌​\nErrno 2] No such file or directory\n[consul@Lio ~]$ ls\n Desktop       Pictures\n Documents     Projects\n Downloads     Public\n keyfile.asc   Templates\n Labs          Videos\n Music        'VirtualBox VMs'\n[consul@Lio ~]$ cd Projects/\n[consul@Lio Projects]$ ls\nGameOfLife  linsetmv1-2  TestOpenGl\n[consul@Lio Projects]$ cd GameOfLife​‌​\n/\n[consul@Lio GameOfLife]$ ls\ngame.py  pip\n[consul@Lio GameOfLife]$ python game​‌​\n.py \npygame 1.9.6\nHello from the pygame community. htt​‌​\nps://www.pygame.org/contribute.html\ngame.py:91: DeprecationWarning: an i​‌​\nnteger is required (got type float).​‌​\n  Implicit conversion to integers us​‌​\ning __int__ is deprecated, and may b​‌​\ne removed in a future version of Pyt​‌​\nhon.\n  pygame.draw.polygon(screen, (128,1​‌​\n28,128), poly, 1)\ngame.py:93: DeprecationWarning: an i​‌​\nnteger is required (got type float).​‌​\n  Implicit conversion to integers us​‌​\ning __int__ is deprecated, and may b​‌​\ne removed in a future version of Pyt​‌​\nhon.\n  pygame.draw.polygon(screen, (255,2​‌​\n55,255), poly, 0)\n^Z\n[1]+  Detenido                python​‌​\n game.py\n[consul@Lio GameOfLife]$ \n[consul@Lio ~]$ ls\n Desktop       Pictures\n Documents     Projects\n Downloads     Public\n keyfile.asc   Templates\n Labs          Videos\n Music        'VirtualBox VMs'\n[consul@Lio ~]$ cd Projects/\n[consul@Lio Projects]$ ls\nGameOfLife  linsetmv1-2  TestOpenGl\n[consul@Lio Projects]$ cd GameOfLife​‌​\n/\n[consul@Lio GameOfLife]$ ls\ngame.py  pip\n[consul@Lio GameOfLife]$ python \ngame.py  pip      \n[consul@Lio GameOfLife]$ python game​‌​\n.py \npygame 1.9.6\nHello from the pygame community. htt​‌​\nps://www.pygame.org/contribute.html\ngame.py:105: DeprecationWarning: an ​‌​\ninteger is required (got type float)​‌​\n.  Implicit conversion to integers u​‌​\nsing __int__ is deprecated, and may ​‌​\nbe removed in a future version of Py​‌​\nthon.\n  pygame.draw.polygon(screen, (128,1​‌​\n28,128), poly, 1)\ngame.py:107: DeprecationWarning: an ​‌​\ninteger is required (got type float)​‌​\n.  Implicit conversion to integers u​‌​\nsing __int__ is deprecated, and may ​‌​\nbe removed in a future version of Py​‌​\nthon.\n  pygame.draw.polygon(screen, (255,2​‌​\n55,255), poly, 0)\n^Z\n[1]+  Detenido                python​‌​\n game.py\n[consul@Lio GameOfLife]$ exit\ncerrar sesión\nHay trabaj\n[consul@Lio ~]$ \n[consul@Lio ~]$                     \n[consul@Lio ~]$                     \n[consul@Lio ~]$ python game.py \npython: can't open file 'game.py': [​‌​\nErrno 2] No such file or directory  \n[consul@Lio ~]$ cd .\n[consul@Lio ~]$ ñs\nbash: ñs: orden no encontrada       \n[consul@Lio ~]$ cd Projects/GameOfLi​‌​\nfe/\n[consul@Lio GameOfLife]$ ls\ngame.py  pip                        \n[consul@Lio GameOfLife]$ python game​‌​\n.py \npygame 1.9.6                        \nHello from the pygame community. htt​‌​\nps://www.pygame.org/contribute.html \ngame.py:101: DeprecationWarning: an ​‌​\ninteger is required (got type float)​‌​\n.  Implicit conversion to integers u​‌​\nsing __int__ is deprecated, and may ​‌​\nbe removed in a future version of Py​‌​\nthon.                               \n  pygame.draw.polygon(screen, (128,1​‌​\n28,128), poly, 1)                   \ngame.py:103: DeprecationWarning: an ​‌​\ninteger is required (got type float)​‌​\n.  Implicit conversion to integers u​‌​\nsing __int__ is deprecated, and may ​‌​\nbe removed in a future version of Py​‌​\nthon.                               \n  pygame.draw.polygon(screen, (255,2​‌​\n55,255), poly, 0)                   \nexit\n^Z                                  \n[1]+  Detenido                python​‌​\n game.py                            \n[consul@Lio GameOfLife]$ \n[consul@Lio ~]$ python game.py \npython: can't open file 'game.py': [​‌​\nErrno 2] No such file or directory\n[consul@Lio ~]$ \n[consul@Lio ~]$ cd P\nPictures/ Projects/ Public/\n[consul@Lio ~]$ cd Projects/GameOfLi​‌​\nfe/\n[consul@Lio GameOfLife]$ ls\ngame.py  pip\n[consul@Lio GameOfLife]$ python game​‌​\n.py \npygame 1.9.6\nHello from the pygame community. htt​‌​\nps://www.pygame.org/contribute.html\ngame.py:99: DeprecationWarning: an i​‌​\nnteger is required (got type float).​‌​\n  Implicit conversion to integers us​‌​\ning __int__ is deprecated, and may b​‌​\ne removed in a future version of Pyt​‌​\nhon.\n  pygame.draw.polygon(screen, (128,1​‌​\n28,128), poly, 1)\ngame.py:101: DeprecationWarning: an ​‌​\ninteger is required (got type float)​‌​\n.  Implicit conversion to integers u​‌​\nsing __int__ is deprecated, and may ​‌​\nbe removed in a future version of Py​‌​\nthon.\n  pygame.draw.polygon(screen, (255,2​‌​\n55,255), poly, 0)\n^Z\n[1]+  Detenido                python​‌​\n game.py\n[consul@Lio GameOfLife]$ \n[consul@Lio ~]$ cd Projects/GameOfLi​‌​\nfe/\n[consul@Lio GameOfLife]$ ls\ncgame.py  pip\n[consul@Lio GameOfLife]$ ./discord-c​‌​\nanary\nbash: ./discord-canary: No existe el​‌​\n fichero o el directorio\n[consul@Lio GameOfLife]$ ls         \ngame.py  pip                        \n[consul@Lio GameOfLife]$ python game​‌​\n.py \npygame 1.9.6\nHello from the pygame community. htt​‌​\nps://www.pygame.org/contribute.html\ngame.py:99: DeprecationWarning: an i​‌​\nnteger is required (got type float).​‌​\n  Implicit conversion to integers us​‌​\ning __int__ is deprecated, and may b​‌​\ne removed in a future version of Pyt​‌​\nhon.\n  pygame.draw.polygon(screen, (128,1​‌​\n28,128), poly, 1)\ngame.py:101: DeprecationWarning: an ​‌​\ninteger is required (got type float)​‌​\n.  Implicit conversion to integers u​‌​\nsing __int__ is deprecated, and may ​‌​\nbe removed in a future version of Py​‌​\nthon.\n  pygame.draw.polygon(screen, (255,2​‌​\n55,255), poly, 0)\n^Z\n[1]+  Detenido                python​‌​\n game.py\n[consul@Lio GameOfLife]$ python game​‌​\n.py \npygame 1.9.6\nHello from the pygame community. htt​‌​\nps://www.pygame.org/contribute.html\ngame.py:92: DeprecationWarning: an i​‌​\nnteger is required (got type float).​‌​\n  Implicit conversion to integers us​‌​\ning __int__ is deprecated, and may b​‌​\ne removed in a future version of Pyt​‌​\nhon.\n  pygame.draw.polygon(screen, (128,1​‌​\n28,128), poly, 1)\ngame.py:94: DeprecationWarning: an i​‌​\nnteger is required (got type float).​‌​\n  Implicit conversion to integers us​‌​\ning __int__ is deprecated, and may b​‌​\ne removed in a future version of Pyt​‌​\nhon.\n  pygame.draw.polygon(screen, (255,2​‌​\n55,255), poly, 0)\n^Z\n[2]+  Detenido                python​‌​\n game.py\n[consul@Lio GameOfLife]$ python game​‌​\n.py \npygame 1.9.6\nHello from the pygame community. htt​‌​\nps://www.pygame.org/contribute.html\ngame.py:92: DeprecationWarning: an i​‌​\nnteger is required (got type float).​‌​\n  Implicit conversion to integers us​‌​\ning __int__ is deprecated, and may b​‌​\ne removed in a future version of Pyt​‌​\nhon.\n  pygame.draw.polygon(screen, (128,1​‌​\n28,128), poly, 1)\ngame.py:94: DeprecationWarning: an i​‌​\nnteger is required (got type float).​‌​\n  Implicit conversion to integers us​‌​\ning __int__ is deprecated, and may b​‌​\ne removed in a future version of Pyt​‌​\nhon.\n  pygame.draw.polygon(screen, (255,2​‌​\n55,255), poly, 0)\n^Z\n[3]+  Detenido                python​‌​\n game.py\n[consul@Lio GameOfLife]$ exit\ncerrar sesión\nHay trabajos detenidos.\n[consul@Lio GameOfLife]$ \n[consul@Lio ~]$ cd Projects/GameOfLi​‌​\nfe/\n[consul@Lio GameOfLife]$ python     \nPython 3.8.2 (default, Apr 13 2020, ​‌​\n05:57:30) \n[GCC 9.3.0] on linux\nType \"help\", \"copyright\", \"credits\" ​‌​\nor \"license\" for more information.\n>>> \n[1]+  Detenido                python\n[consul@Lio GameOfLife]$ python game​‌​\n.py \npygame 1.9.6\nHello from the pygame community. htt​‌​\nps://www.pygame.org/contribute.html\ngame.py:92: DeprecationWarning: an i​‌​\nnteger is required (got type float).​‌​\n  Implicit conversion to integers us​‌​\ning __int__ is deprecated, and may b​‌​\ne removed in a future version of Pyt​‌​\nhon.\n  pygame.draw.polygon(screen, (128,1​‌​\n28,128), poly, 1)\ngame.py:94: DeprecationWarning: an i​‌​\nnteger is required (got type float).​‌​\n  Implicit conversion to integers us​‌​\ning __int__ is deprecated, and may b​‌​\ne removed in a future version of Pyt​‌​\nhon.\n  pygame.draw.polygon(screen, (255,2​‌​\n55,255), poly, 0)\n^Z\n[2]+  Detenido                python​‌​\n game.py\n[consul@Lio GameOfLife]$ python game​‌​\n.py \npygame 1.9.6\nHello from the pygame community. htt​‌​\nps://www.pygame.org/contribute.html\ngame.py:92: DeprecationWarning: an i​‌​\nnteger is required (got type float).​‌​\n  Implicit conversion to integers us​‌​\ning __int__ is deprecated, and may b​‌​\ne removed in a future version of Pyt​‌​\nhon.\n  pygame.draw.polygon(screen, (128,1​‌​\n28,128), poly, 1)\ngame.py:94: DeprecationWarning: an i​‌​\nnteger is required (got type float).​‌​\n  Implicit conversion to integers us​‌​\ning __int__ is deprecated, and may b​‌​\ne removed in a future version of Pyt​‌​\nhon.\n  pygame.draw.polygon(screen, (255,2​‌​\n55,255), poly, 0)\n\n[consul@Lio ~]$ cd Projects/GameOfLi​‌​\nfe/\n[consul@Lio GameOfLife]$ ls\ngame.py  pip\n[consul@Lio GameOfLife]$ python game​‌​\n.py \npygame 1.9.6\nHello from the pygame community. htt​‌​\nps://www.pygame.org/contribute.html\ngame.py:92: DeprecationWarning: an i​‌​\nnteger is required (got type float).​‌​\n  Implicit conversion to integers us​‌​\ning __int__ is deprecated, and may b​‌​\ne removed in a future version of Pyt​‌​\nhon.\n  pygame.draw.polygon(screen, (128,1​‌​\n28,128), poly, 1)\ngame.py:94: DeprecationWarning: an i​‌​\nnteger is required (got type float).​‌​\n  Implicit conversion to integers us​‌​\ning __int__ is deprecated, and may b​‌​\ne removed in a future version of Pyt​‌​\nhon.\n  pygame.draw.polygon(screen, (255,2​‌​\n55,255), poly, 0)\n^Z\n[1]+  Detenido                python​‌​\n game.py\n[consul@Lio GameOfLife]$ \n[consul@Lio ~]$ cd Projects/GameOfLi​‌​\nfe/\n[consul@Lio GameOfLife]$ ls\ngame.py\nletc.sublime-project\nletc.sublime-workspace\npip\n[consul@Lio GameOfLife]$ python game​‌​\n.py \npygame 1.9.6\nHello from the pygame community. htt​‌​\nps://www.pygame.org/contribute.html\ngame.py:95: DeprecationWarning: an i​‌​\nnteger is required (got type float).​‌​\n  Implicit conversion to integers us​‌​\ning __int__ is deprecated, and may b​‌​\ne removed in a future version of Pyt​‌​\nhon.\n  pygame.draw.polygon(screen, (128,1​‌​\n28,128), poly, 1)\ngame.py:97: DeprecationWarning: an i​‌​\nnteger is required (got type float).​‌​\n  Implicit conversion to integers us​‌​\ning __int__ is deprecated, and may b​‌​\ne removed in a future version of Pyt​‌​\nhon.\n  pygame.draw.polygon(screen, (255,2​‌​\n55,255), poly, 0)\n^A^Z\n[1]+  Detenido                python​‌​\n game.py\n[consul@Lio GameOfLife]$            \n[consul@Lio GameOfLife]$ python game​‌​\n.py                                 \npygame 1.9.6                        \nHello from the pygame community. htt​‌​\nps://www.pygame.org/contribute.html \nTraceback (most recent call last):  \n  File \"game.py\", line 95, in <modul​‌​\ne>                                  \n    pygame.draw.polygon(screen, (128​‌​\n,128,128), poly, 1)                 \nTypeError: argument 1 must be pygame​‌​\n.Surface, not bool                  \n[consul@Lio GameOfLife]$            \n[consul@Lio GameOfLife]$ python game​‌​\n.py                                 \npygame 1.9.6                        \nHello from the pygame community. htt​‌​\nps://www.pygame.org/contribute.html \ngame.py:94: DeprecationWarning: an i​‌​\nnteger is required (got type float).​‌​\n  Implicit conversion to integers us​‌​\ning __int__ is deprecated, and may b​‌​\ne removed in a future version of Pyt​‌​\nhon.                                \n  pygame.draw.polygon(screen, (128,1​‌​\n28,128), poly, 1)                   \ngame.py:96: DeprecationWarning: an i​‌​\nnteger is required (got type float).​‌​\n  Implicit conversion to integers us​‌​\ning __int__ is deprecated, and may b​‌​\ne removed in a future version of Pyt​‌​\nhon.                                \n  pygame.draw.polygon(screen, (255,2​‌​\n55,255), poly, 0)                   \n^Z                                  \n[2]+  Detenido                python​‌​\n game.py                            \n[consul@Lio GameOfLife]$            \n[consul@Lio GameOfLife]$ python game​‌​\n.py                                 \npygame 1.9.6                        \nHello from the pygame community. htt​‌​\nps://www.pygame.org/contribute.html \ngame.py:94: DeprecationWarning: an i​‌​\nnteger is required (got type float).​‌​\n  Implicit conversion to integers us​‌​\ning __int__ is deprecated, and may b​‌​\ne removed in a future version of Pyt​‌​\nhon.                                \n  pygame.draw.polygon(screen, (128,1​‌​\n28,128), poly, 1)                   \ngame.py:96: DeprecationWarning: an i​‌​\nnteger is required (got type float).​‌​\n  Implicit conversion to integers us​‌​\ning __int__ is deprecated, and may b​‌​\ne removed in a future version of Pyt​‌​\nhon.                                \n  pygame.draw.polygon(screen, (255,2​‌​\n55,255), poly, 0)                   \n^Z                                  \n[3]+  Detenido                python​‌​\n game.py                            \n[consul@Lio GameOfLife]$            \n[consul@Lio GameOfLife]$ python game​‌​\n.py                                 \npygame 1.9.6                        \nHello from the pygame community. htt​‌​\nps://www.pygame.org/contribute.html \ngame.py:94: DeprecationWarning: an i​‌​\nnteger is required (got type float).​‌​\n  Implicit conversion to integers us​‌​\ning __int__ is deprecated, and may b​‌​\ne removed in a future version of Pyt​‌​\nhon.                                \n  pygame.draw.polygon(screen, (128,1​‌​\n28,128), poly, 1)                   \ngame.py:96: DeprecationWarning: an i​‌​\nnteger is required (got type float).​‌​\n  Implicit conversion to integers us​‌​\ning __int__ is deprecated, and may b​‌​\ne removed in a future version of Pyt​‌​\nhon.                                \n  pygame.draw.polygon(screen, (255,2​‌​\n55,255), poly, 0)                   \n^Z                                  \n[4]+  Detenido                python​‌​\n game.py                            \n[consul@Lio GameOfLife]$            \n[consul@Lio GameOfLife]$ python game​‌​\n.py                                 \npygame 1.9.6                        \nHello from the pygame community. htt​‌​\nps://www.pygame.org/contribute.html \ngame.py:94: DeprecationWarning: an i​‌​\nnteger is required (got type float).​‌​\n  Implicit conversion to integers us​‌​\ning __int__ is deprecated, and may b​‌​\ne removed in a future version of Pyt​‌​\nhon.                                \n  pygame.draw.polygon(screen, (128,1​‌​\n28,128), poly, 1)                   \ngame.py:96: DeprecationWarning: an i​‌​\nnteger is required (got type float).​‌​\n  Implicit conversion to integers us​‌​\ning __int__ is deprecated, and may b​‌​\ne removed in a future version of Pyt​‌​\nhon.                                \n  pygame.draw.polygon(screen, (255,2​‌​\n55,255), poly, 0)                   \n^[[A^Z                              \n[5]+  Detenido                python​‌​\n game.py                            \n[consul@Lio GameOfLife]$            \n[consul@Lio GameOfLife]$ pygame     \nbash: pygame: orden no encontrada   \n[consul@Lio GameOfLife]$ pip        \n                                    \nUsage:                              \n  pip <command> [options]           \n                                    \nCommands:                           \n  install                     Instal​‌​\nl packages.                         \n  download                    Downlo​‌​\nad packages.                        \n  uninstall                   Uninst​‌​\nall packages.                       \n  freeze                      Output​‌​\n installed packages in requirements ​‌​\nformat.                             \n  list                        List i​‌​\nnstalled packages.                  \n  show                        Show i​‌​\nnformation about installed packages.\n  check                       Verify​‌​\n installed packages have compatible ​‌​\ndependencies.                       \n  config                      Manage​‌​\n local and global configuration.    \n  search                      Search​‌​\n PyPI for packages.                 \n  wheel                       Build ​‌​\nwheels from your requirements.      \n  hash                        Comput​‌​\ne hashes of package archives.       \n  completion                  A help​‌​\ner command used for command completi​‌​\non.                                 \n  debug                       Show i​‌​\nnformation useful for debugging.    \n  help                        Show h​‌​\nelp for commands.                   \n                                    \nGeneral Options:                    \n  -h, --help  Show help.            \n  --isolated  Run pip in an         \n              isolated mode,        \n              ignoring environment\n              variables and user\n              configuration.\n  -v, --verbose\n              Give more output.\n              Option is additive,\n              and can be used up\n              to 3 times.\n  -V, --version\n              Show version and\n              exit.\n  -q, --quiet\n              Give less output.\n              Option is additive,\n              and can be used up\n              to 3 times\n              (corresponding to\n              WARNING, ERROR, and\n              CRITICAL logging\n              levels).\n  --log <path>\n              Path to a verbose\n              appending log.\n  --proxy <proxy>\n              Specify a proxy in\n              the form [user:passw\n              d@]proxy.server:port\n              .\n  --retries <retries>\n              Maximum number of\n              retries each\n              connection should\n              attempt (default 5\n              times).\n  --timeout <sec>\n              Set the socket\n              timeout (default 15\n              seconds).\n  --exists-action <action>\n              Default action when\n              a path already\n              exists: (s)witch,\n              (i)gnore, (w)ipe,\n              (b)ackup, (a)bort.\n  --trusted-host <hostname>\n              Mark this host or\n              host:port pair as\n              trusted, even though\n              it does not have\n              valid or any HTTPS.\n  --cert <path>\n              Path to alternate CA\n              bundle.\n  --client-cert <path>\n              Path to SSL client\n              certificate, a\n              single file\n              containing the\n              private key and the\n              certificate in PEM\n              format.\n  --cache-dir <dir>\n              Store the cache data\n              in <dir>.\n  --no-cache-dir\n              Disable the cache.\n  --disable-pip-version-check\n              Don't periodically\n              check PyPI to\n              determine whether a\n              new version of pip\n              is available for\n              download. Implied\n              with --no-index.\n  --no-color  Suppress colored\n              output\n  --no-python-version-warning\n              Silence deprecation\n              warnings for\n              upcoming unsupported\n              Pythons.\n[consul@Lio GameOfLife]$ \n[consul@Lio ~]$ ",
+			"settings":
+			{
+				"buffer_size": 18946,
+				"line_ending": "Unix",
+				"name": "Login Shell",
+				"scratch": true
+			}
+		}
+	],
+	"build_system": "Packages/Python/Python.sublime-build",
+	"build_system_choices":
+	[
+		[
+			[
+				[
+					"Compilar C++",
+					""
+				],
+				[
+					"Packages/C++/C++ Single File.sublime-build",
+					""
+				],
+				[
+					"Packages/C++/C++ Single File.sublime-build",
+					"Run"
+				]
+			],
+			[
+				"Compilar C++",
+				""
+			]
+		],
+		[
+			[
+				[
+					"Exus",
+					""
+				],
+				[
+					"Exus",
+					"Run"
+				]
+			],
+			[
+				"Exus",
+				"Run"
+			]
+		],
+		[
+			[
+				[
+					"Packages/C++/C++ Single File.sublime-build",
+					""
+				],
+				[
+					"Packages/C++/C++ Single File.sublime-build",
+					"Run"
+				]
+			],
+			[
+				"Packages/C++/C++ Single File.sublime-build",
+				"Run"
+			]
+		],
+		[
+			[
+				[
+					"Packages/Python/Python.sublime-build",
+					""
+				],
+				[
+					"Packages/Python/Python.sublime-build",
+					"Syntax Check"
+				]
+			],
+			[
+				"Packages/Python/Python.sublime-build",
+				""
+			]
+		],
+		[
+			[
+				[
+					"Packages/User/c++.sublime-build",
+					""
+				],
+				[
+					"Packages/User/c++.sublime-build",
+					"Run"
+				]
+			],
+			[
+				"Packages/User/c++.sublime-build",
+				"Run"
+			]
+		],
+		[
+			[
+				[
+					"coding",
+					""
+				],
+				[
+					"Packages/C++/C++ Single File.sublime-build",
+					""
+				],
+				[
+					"Packages/C++/C++ Single File.sublime-build",
+					"Run"
+				]
+			],
+			[
+				"Packages/C++/C++ Single File.sublime-build",
+				"Run"
+			]
+		],
+		[
+			[
+				[
+					"coding",
+					""
+				],
+				[
+					"coding",
+					"Run"
+				]
+			],
+			[
+				"coding",
+				""
+			]
+		],
+		[
+			[
+				[
+					"hodd",
+					""
+				],
+				[
+					"hodd",
+					"Run"
+				]
+			],
+			[
+				"hodd",
+				"Run"
+			]
+		]
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"ter",
+				"Terminus: List Shells"
+			],
+			[
+				"inst",
+				"Package Control: Install Package"
+			],
+			[
+				"py",
+				"Build With: Python"
+			],
+			[
+				"Package Control: ",
+				"Package Control: Install Package"
+			],
+			[
+				"insta",
+				"Package Control: Install Package"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"te",
+				"Terminus: List Shells"
+			],
+			[
+				"termin",
+				"Terminus: List Shells"
+			],
+			[
+				"ins",
+				"Package Control: Install Package"
+			],
+			[
+				"terminus",
+				"Terminus: List Shells"
+			],
+			[
+				"termi",
+				"Terminus: List Shells"
+			],
+			[
+				"term",
+				"Preferences: Terminus Key Bindings"
+			],
+			[
+				"in",
+				"Package Control: Install Package"
+			],
+			[
+				"re",
+				"Package Control: Remove Package"
+			],
+			[
+				"terminue",
+				"Terminus Utilities: Select Theme"
+			],
+			[
+				"remo",
+				"Package Control: Remove Package"
+			],
+			[
+				"rem",
+				"Package Control: Remove Package"
+			],
+			[
+				"pac",
+				"Package Control: Remove Package"
+			],
+			[
+				"sub",
+				"Preferences: SublimeInput Settings – Default"
+			],
+			[
+				"co",
+				"Build With: coding"
+			],
+			[
+				"cod",
+				"Build With: coding - Run"
+			],
+			[
+				"codign",
+				"Build With: coding - Run"
+			],
+			[
+				"codi",
+				"Build With: coding - Run in out"
+			],
+			[
+				"coding",
+				"Build With: coding - Run"
+			],
+			[
+				"ma",
+				"Material Theme: Configuration"
+			],
+			[
+				"mate",
+				"Material Theme: Configuration"
+			],
+			[
+				"",
+				"PackageResourceViewer: Open Resource"
+			],
+			[
+				"packa",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 182.0,
+		"history":
+		[
+			"g++ -h. Lista.cpp Main.cpp -o Lista",
+			"g++ -I. Lista.cpp Main.cpp -o Lista",
+			"g++ -o main main.cpp",
+			"g++ -o main.cpp"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/home/consul/Projects/TestOpenGl/View.cpp",
+		"/home/consul/Projects/TestOpenGl/View.h",
+		"/home/consul/Projects/TestOpenGl/Data.h",
+		"/home/consul/Projects/TestOpenGl/main.cpp",
+		"/home/consul/Labs/Algorithms and data structures/Polynom/RootLink.cpp",
+		"/home/consul/Labs/Algorithms and data structures/Polynom/RootLink.h",
+		"/home/consul/Labs/Algorithms and data structures/Polynom/Polinom.cpp",
+		"/home/consul/Labs/Algorithms and data structures/Polynom/Polinom.h",
+		"/home/consul/Labs/Algorithms and data structures/Polynom/Main.cpp",
+		"/home/consul/Labs/Algorithms and data structures/Polynom/Monom.cpp",
+		"/home/consul/Labs/Algorithms and data structures/Polynom/Monom.h",
+		"/home/consul/Labs/Algorithms and data structures/Polynom/HeadRing.cpp",
+		"/home/consul/Labs/Algorithms and data structures/Polynom/HeadRing.h",
+		"/home/consul/Labs/Algorithms and data structures/Polynom/DatValue.h",
+		"/home/consul/Labs/Algorithms and data structures/Polynom/DatList.cpp",
+		"/home/consul/Labs/Algorithms and data structures/Polynom/DatList.h",
+		"/home/consul/Labs/Algorithms and data structures/Polynom/DatLink.cpp",
+		"/home/consul/Labs/Algorithms and data structures/Polynom/DatLink.h",
+		"/home/consul/Documents/University/Labs/Semestre/Lab2 (Polinom)/poli.h",
+		"/home/consul/Documents/University/Labs/Semestre/Lab2 (Polinom)/main.cpp",
+		"/home/consul/Documents/University/Labs/Semestre/Lab2 (Polinom)/poli.cpp",
+		"/home/consul/Documents/University/Labs/Semestre/Lab2 (Polinom)/Poli.sublime-project",
+		"/home/consul/Documents/University/Labs/Semestre/Lab1 (List)/Main.cpp",
+		"/home/consul/Documents/University/Labs/Semestre/Lab1 (List)/Lista.cpp",
+		"/home/consul/Documents/University/Labs/Semestre/Lab1 (List)/Lista.hpp",
+		"/home/consul/Documents/University/Labs/Semestre/Lab1 (List)/executablename",
+		"/home/consul/Documents/University/Labs/Semestre/Lab1 (List)/Lista.sublime-project",
+		"/home/consul/.config/sublime-text-3/Packages/User/c++.sublime-build",
+		"/home/consul/.config/sublime-text-3/Packages/Sublime Input/SublimeInput.sublime-settings",
+		"/home/consul/Documents/University/Labs/Semestre/Lab1 (List)/input-txt",
+		"/home/consul/.config/sublime-text-3/Packages/User/Exus.sublime-build",
+		"/home/consul/Documents/Sublime/Trabajos/Mundus/Mundus.sublime-project",
+		"/home/consul/Documents/Sublime/Trabajos/Mundus/poli.cpp",
+		"/home/consul/Documents/Sublime/Trabajos/Mundus/poli.hpp",
+		"/home/consul/Documents/University/Labs/Sig Mundus/src/main.cpp",
+		"/home/consul/Documents/Sublime/Trabajos/Mundus/input.txt",
+		"/home/consul/Documents/Sublime/Trabajos/Mundus/output.txt",
+		"/home/consul/Documents/Sublime/Trabajos/Mundus/error.txt",
+		"/home/consul/Documents/Sublime/Trabajos/Mundus/poli",
+		"/home/consul/Documents/Sublim/Lab1/include/poli.hpp.hpp",
+		"/home/consul/Documents/Sublim/Lab1/include/poli.h",
+		"/home/consul/Documents/Sublim/Lab1/src/poli.cpp",
+		"/home/consul/Documents/Sublim/Lab1/LAB.sublime-project",
+		"/home/consul/Documents/Sublim/C++ Prueba/C++ prueba.sublime-project",
+		"/home/consul/Documents/Sublim/C++ Prueba/src/main.cpp",
+		"/home/consul/.config/sublime-text-3/Packages/Default/exec.py",
+		"/home/consul/Documents/sublime_text_3/sublime_text"
+	],
+	"find":
+	{
+		"height": 0.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "game.py",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 2414,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								858,
+								858
+							]
+						],
+						"settings":
+						{
+							"auto_name": "import pygame",
+							"syntax": "Packages/Python/Python.sublime-syntax",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				}
+			]
+		},
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 1,
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 18946,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								18946,
+								18946
+							]
+						],
+						"settings":
+						{
+							"__vi_external_disable": true,
+							"auto_complete": false,
+							"auto_complete_commit_on_tab": false,
+							"bracket_highlighter.clone_locations":
+							{
+							},
+							"bracket_highlighter.ignore": true,
+							"color_scheme": "Terminus.hidden-color-scheme",
+							"default_dir": "/home/consul/Projects/GameOfLife",
+							"draw_centered": false,
+							"draw_indent_guides": false,
+							"draw_unicode_white_space": false,
+							"draw_white_space": "none",
+							"gutter": false,
+							"highlight_line": false,
+							"is_widget": true,
+							"result_base_dir": "/home/consul",
+							"result_file_regex": null,
+							"result_line_regex": null,
+							"scroll_past_end": true,
+							"syntax": "Packages/Text/Plain text.tmLanguage",
+							"tab_size": 2,
+							"terminus.highlight_counter": 14,
+							"terminus_view": true,
+							"terminus_view.args":
+							{
+								"auto_close": true,
+								"cancellable": false,
+								"cmd":
+								[
+									"/bin/bash",
+									"-i",
+									"-l"
+								],
+								"config_name": "Login Shell",
+								"cwd": "/home/consul",
+								"env":
+								{
+									"LANG": "es_CO.UTF-8",
+									"TERM": "linux",
+									"TERMINUS_SUBLIME": "1",
+									"TERM_PROGRAM": "Terminus-Sublime"
+								},
+								"file_regex": null,
+								"line_regex": null,
+								"panel_name": null,
+								"tag": null,
+								"timeit": false,
+								"title": null
+							},
+							"terminus_view.cancellable": false,
+							"terminus_view.key.ctrl+k": true,
+							"terminus_view.key.ctrl+p": true,
+							"terminus_view.natural_keyboard": true,
+							"terminus_view.panel_name": null,
+							"terminus_view.tag": null,
+							"terminus_view.viewport_y": 9045.0,
+							"translate_tabs_to_spaces": true,
+							"word_wrap": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 9045.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 0.0
+	},
+	"input":
+	{
+		"height": 64.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			],
+			[
+				1,
+				0,
+				2,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			0.71748099915,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.Terminus":
+	{
+		"height": 138.0
+	},
+	"output.exec":
+	{
+		"height": 194.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"output.hex_viewer_inspector":
+	{
+		"height": 126.0
+	},
+	"pinned_build_system": "Packages/Python 3/Python3.sublime-build",
+	"project": "letc.sublime-project",
+	"replace":
+	{
+		"height": 0.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 380.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 1,
+	"settings":
+	{
+	},
+	"show_minimap": false,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 146.0,
+	"status_bar_visible": false,
+	"template_settings":
+	{
+		"max_columns": 4
+	}
+}
